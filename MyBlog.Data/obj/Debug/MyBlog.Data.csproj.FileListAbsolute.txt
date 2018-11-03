@@ -1,0 +1,17 @@
+E:\MVC\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll
+E:\MVC\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.pdb
+E:\MVC\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csprojAssemblyReference.cache
+E:\MVC\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csproj.CoreCompileInputs.cache
+E:\MVC\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.dll
+E:\MVC\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.pdb
+E:\MVC\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll.config
+E:\MVC\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.dll
+E:\MVC\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\MVC\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.xml
+E:\MVC\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\MVC\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csproj.CopyComplete
+E:\MVC\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.Migrations.CategoryToArticleToPictureCreateTable.resources
+E:\MVC\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csproj.GenerateResource.cache
+E:\MVC\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.Migrations.LabelCreateTable.resources
+E:\MVC\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.Migrations.UserToRoleCreateTable.resources
+E:\MVC\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.Migrations.CreateCommentAndUpdateArticleToUserTable.resources

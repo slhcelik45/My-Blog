@@ -1,0 +1,12 @@
+E:\MVC\MyBlog\MyBlog.Core\bin\Debug\MyBlog.Core.dll
+E:\MVC\MyBlog\MyBlog.Core\bin\Debug\MyBlog.Core.pdb
+E:\MVC\MyBlog\MyBlog.Core\obj\Debug\MyBlog.Core.csprojAssemblyReference.cache
+E:\MVC\MyBlog\MyBlog.Core\obj\Debug\MyBlog.Core.csproj.CoreCompileInputs.cache
+E:\MVC\MyBlog\MyBlog.Core\obj\Debug\MyBlog.Core.dll
+E:\MVC\MyBlog\MyBlog.Core\obj\Debug\MyBlog.Core.pdb
+E:\MVC\MyBlog\MyBlog.Core\bin\Debug\MyBlog.Core.dll.config
+E:\MVC\MyBlog\MyBlog.Core\bin\Debug\EntityFramework.dll
+E:\MVC\MyBlog\MyBlog.Core\bin\Debug\EntityFramework.SqlServer.dll
+E:\MVC\MyBlog\MyBlog.Core\bin\Debug\EntityFramework.xml
+E:\MVC\MyBlog\MyBlog.Core\bin\Debug\EntityFramework.SqlServer.xml
+E:\MVC\MyBlog\MyBlog.Core\obj\Debug\MyBlog.Core.csproj.CopyComplete
